@@ -1,4 +1,3 @@
-"""
 # Bootcamp MITIC - Proyecto Final  
 ## Global Electronics Retail: Caracterización del Mercado
 
@@ -95,4 +94,3 @@ El análisis fue realizado utilizando Python (Colab) para la preparación, model
 Este análisis muestra cómo, mediante herramientas de análisis de datos y visualización, es posible transformar registros en decisiones estratégicas: entender a los clientes, optimizar márgenes y redefinir canales de venta.
 
 ---
-"""
